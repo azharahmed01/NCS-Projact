@@ -1,5 +1,5 @@
-# NCS-Projact
-This is my first NCS Projact assigned by Rohi E-Skills 
+# NCS-Project
+This is my first NCS Project assigned by Rohi E-Skills 
 
 🔐 **Cybersecurity Enthusiast | Digital Guardian in the Making**
 
